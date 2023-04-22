@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests in <ProductTitle/> should display the component with the product name 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    Coffee Mug sin imagen
+  </span>
+  <span
+    className="productDescription undefined"
+  >
+    1
+  </span>
+</div>
+`;
