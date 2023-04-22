@@ -2,7 +2,7 @@
 
 Este es un paquete de pruebas de despliegue en NPM
 
-### Fernando Herrera
+### Cesar Gonzalez
 
 ## Ejemplos
 
